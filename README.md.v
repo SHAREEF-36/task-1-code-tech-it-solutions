@@ -1,9 +1,9 @@
-Name: shaik khasim shareef
-ID: CT12DS2112
-Domain:vlsi
-Duration: AUGUST 5th to OCTOBER 5th 2024
+**Name**: shaik khasim shareef
+**ID**: CT12DS2112
+**Domain**:vlsi
+**Duration**: AUGUST 5th to OCTOBER 5th 2024
 
-Overview of the Project
+#Overview# of the Project#
 
 Project: Digital Logic Circuit Design using Verilog
 
