@@ -8,11 +8,9 @@
 
 ## Overview of the Project
 
-### Project Name
-Digital Logic Design Lab
+*Project Name:* Digital Logic Design Lab
 
-### Objective
-The objective of this project is to design and implement digital logic circuits using Verilog on the Xilinx 14.7 platform. The project focuses on creating and testing the following components:
+*Objective:* The objective of this project is to design and implement digital logic circuits using Verilog on the Xilinx 14.7 platform. The project focuses on creating and testing the following components:
 - 4:1 Multiplexer using 2:1 Multiplexers
 - Logic Gates
 - Adders
