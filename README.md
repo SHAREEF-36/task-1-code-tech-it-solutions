@@ -15,7 +15,7 @@
 - Logic Gates
 - Adders
 
-## Key Activities
+*Key Activities:*
 - Designed and implemented a 4:1 Multiplexer using 2:1 Multiplexers and logic gates.
 - Designed and implemented various logic gates.
 - Implemented a Half Adder using logic gates.
