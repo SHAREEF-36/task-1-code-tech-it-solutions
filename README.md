@@ -22,7 +22,7 @@
 - Implemented a Full Adder using Half Adders and logic gates.
 - Tested and verified the functionality of each circuit using Xilinx 14.7 simulation tools.
 
-## Technology Used
+*Technology Used:*
 - Xilinx 14.7 software platform
 - Verilog hardware description language
 - FPGA (Field-Programmable Gate Array) technology
