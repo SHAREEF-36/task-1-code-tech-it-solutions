@@ -1,10 +1,10 @@
 # Digital Logic Design Lab
 
-*Name:* Shaik Khasim Shareef  
+*Name:* Shaik Nagur Shareef  
 *Company:* CODETECH IT SOLUTIONS  
 *ID:* CT6WDS1963 
 *Domain:* VLSI  
-*Duration:* August 5th to October 5th, 2024
+*Duration:* september 20th to Novermber 5th, 2024
 
 ## Overview of the Project
 
